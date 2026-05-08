@@ -36,7 +36,4 @@
 
 
 <div align="center" style="margin-top: 10px;">
-  <sub>
-    all projects created and maintained by <b>@cxncur</b> on discord & telegram
-  </sub>
 </div>
